@@ -1,5 +1,5 @@
 ---
-{"title":"About","dg-publish":true,"notes":null,"permalink":"/blogs//about/","dgPassFrontmatter":true,"created":"2025-04-16T14:16:42.951+08:00","updated":"2025-04-16T17:11:10.349+08:00"}
+{"title":"About","dg-publish":true,"notes":null,"permalink":"/blogs//about/","dgPassFrontmatter":true,"created":"2025-04-16T14:16:42.951+08:00","updated":"2025-04-16T17:38:19.164+08:00"}
 ---
 
 
@@ -9,16 +9,7 @@
 
 ### 快速开始
 
-- AI 本科 → 即将开始 gap year
-- ADHD intj 混合物
-
-### 其它
-
-- 享受广义上的学习
-- 热衷有关学习和工作效率的方法和工具
-- Concerta 圣体
-- 重训新手
-- 向往 HCI 研究
+ADHD intj 混合物
 
 ## 关于本站
 
