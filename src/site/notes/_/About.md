@@ -1,7 +1,9 @@
 ---
-{"title":"About","dg-publish":true,"notes":null,"permalink":"//about/","dgPassFrontmatter":true,"created":"2025-04-16T14:16:42.951+08:00","updated":"2025-04-16T14:51:20.034+08:00"}
+{"title":"About","dg-publish":true,"notes":null,"permalink":"//about/","dgPassFrontmatter":true,"created":"2025-04-16T14:16:42.951+08:00","updated":"2025-04-16T14:56:26.790+08:00"}
 ---
 
+
+起源
 
 > 我家过去经常讲一个古老的寓言，关于一个贫穷的家庭，一位智者，一只山羊。
 >
