@@ -1,13 +1,11 @@
 ---
-{"title":"About","dg-publish":true,"notes":null,"permalink":"/Blogs/杂/About/","dgPassFrontmatter":true,"created":"2025-04-16T14:16:42.951+08:00","updated":"2025-04-16T17:38:19.164+08:00"}
+{"title":"About","dg-publish":true,"notes":null,"permalink":"/Blogs/杂/About/","dgPassFrontmatter":true,"created":"2025-04-16T14:16:42.951+08:00","updated":"2025-04-16T17:55:28.319+08:00"}
 ---
 
 
 ---
 
 ## 关于我
-
-### 快速开始
 
 ADHD intj 混合物
 
